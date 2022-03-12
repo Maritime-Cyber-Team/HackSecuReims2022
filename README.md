@@ -3,7 +3,7 @@
 
 # HackSecuReims2022
 
-Writeups officiels des challenges proposés par la **Maritime Cyber Team** dans le cadre du **[HackSecuReims 2022](https://github.com/HackSecuReims2022/HackSecuReims2022à=)**.
+Writeups officiels des challenges proposés par la **Maritime Cyber Team** dans le cadre du **[HackSecuReims 2022](https://github.com/HackSecuReims2022/HackSecuReims2022)**.
 
 
 
