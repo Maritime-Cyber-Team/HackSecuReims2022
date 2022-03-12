@@ -1,3 +1,6 @@
+
+![logo du HackSecuReims](../../medias/hsr.svg)
+
 # Stegano ? Not really...
 
 ## Enoncé
